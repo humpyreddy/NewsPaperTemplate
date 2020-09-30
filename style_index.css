@@ -1,0 +1,13 @@
+.parent{
+    font-family: 'Noticia Text', serif !important;
+}
+
+h6{
+    text-align: center;
+    font-family: 'Noticia Text', serif;
+    font-style: normal;
+}
+img{
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
